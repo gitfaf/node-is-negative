@@ -1,6 +1,6 @@
 {
-  "name": "is-negative",
-  "version": "1.0.0",
+  "name": "node-is-negative",
+  "version": "1.0.1",
   "description": "Check if a number is negative, including -Infinity, -0 and other numbers.",
   "main": "index.js",
   "scripts": {
