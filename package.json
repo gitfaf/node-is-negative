@@ -1,0 +1,31 @@
+{
+  "name": "is-negative",
+  "version": "1.0.0",
+  "description": "Check if a number is negative, including -Infinity, -0 and other numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfaf/node-is-negative.git"
+  },
+  "keywords": [
+    "negative",
+    "negative-numbers",
+    "negative-Infinity",
+    "negative zero",
+    "negative numbers",
+    "negative numbers including -Infinity, -0 and other negatie numbers"
+  ],
+  "author": "Git Faf <Git.Faf@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gitfaf/node-is-negative/issues"
+  },
+  "homepage": "https://github.com/gitfaf/node-is-negative#readme",
+  "dependencies": {
+    "negative-infinity": "^1.0.0",
+    "negative-zero": "^2.0.0"
+  }
+}
